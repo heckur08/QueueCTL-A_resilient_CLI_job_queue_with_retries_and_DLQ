@@ -171,7 +171,7 @@ QueueCTL demonstrates a **robust, concurrent, and persistent** job queue system 
 - Safe concurrency via SQLite locks  
 - Exponential retry backoff  
 - Graceful worker shutdown  
-- DLQ management for failures
+- DLQ management for failure
 
 ---
 **Author:** *Anurag Singh*  
